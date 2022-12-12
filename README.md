@@ -55,8 +55,8 @@ https://github.com/2022-DEV2-018/Kata_Berlin_Clock.git
 
 # Unit Testing
 - open the BerlinClockUnitTests file from the test package
-- use ^+Shift+F10 on PC or ^+R on Mac
+- use ^+Shift+F10 on PC or ^+Shift+R on Mac
 
 # UI Testing
 - open the BerlinClockUITests file from the androidTest package
-- use ^+Shift+F10 on PC or ^+R on Mac
+- use ^+Shift+F10 on PC or ^+Shift+R on Mac
