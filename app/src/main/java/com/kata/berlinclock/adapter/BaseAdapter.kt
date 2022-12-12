@@ -1,12 +1,9 @@
 package com.kata.berlinclock.adapter
 
-import android.content.Context
 import android.graphics.Color
 import android.view.LayoutInflater
 import android.view.ViewGroup
-import androidx.core.content.ContextCompat
 import androidx.recyclerview.widget.RecyclerView
-import com.kata.berlinclock.R
 import com.kata.berlinclock.databinding.BerlinClockItemLayoutBinding
 import com.kata.berlinclock.utils.LightStatus
 import com.kata.berlinclock.utils.LightStatus.*
